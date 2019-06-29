@@ -10,6 +10,8 @@
     <version>1.0</version>
     <modules>
         <module>model</module>
+        <module>exception</module>
+        <module>validator</module>
     </modules>
 
     <name>car-management-application</name>
