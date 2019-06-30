@@ -12,6 +12,8 @@
         <module>model</module>
         <module>exception</module>
         <module>validator</module>
+        <module>service</module>
+        <module>conversion</module>
     </modules>
 
     <name>car-management-application</name>
