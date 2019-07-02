@@ -15,6 +15,7 @@
         <module>service</module>
         <module>conversion</module>
         <module>utils</module>
+        <module>menu</module>
     </modules>
 
     <name>car-management-application</name>

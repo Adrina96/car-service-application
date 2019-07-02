@@ -1,4 +1,4 @@
-package averangeBigDecimal;
+package com.maciaszek.adrian.averangeBigDecimal;
 
 import org.eclipse.collections.api.block.function.Function;
 

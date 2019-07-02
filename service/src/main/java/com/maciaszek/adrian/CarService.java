@@ -1,10 +1,8 @@
-import averangeBigDecimal.AverangeBD;
-import com.maciaszek.adrian.AppException;
-import com.maciaszek.adrian.Car;
-import com.maciaszek.adrian.CarJsonConverter;
-import com.maciaszek.adrian.CarValidator;
+package com.maciaszek.adrian;
+
+import com.maciaszek.adrian.averangeBigDecimal.AverangeBD;
 import com.maciaszek.adrian.enums.Color;
-import enums.SortType;
+import com.maciaszek.adrian.enums.SortType;
 
 import java.math.BigDecimal;
 import java.util.*;
