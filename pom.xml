@@ -14,6 +14,7 @@
         <module>validator</module>
         <module>service</module>
         <module>conversion</module>
+        <module>utils</module>
     </modules>
 
     <name>car-management-application</name>
